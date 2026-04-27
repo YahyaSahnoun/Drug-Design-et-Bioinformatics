@@ -3,3 +3,4 @@ RandomForestRegressor_model1/*
 .venv/
 bio/
 *.csv
+*.smi
