@@ -4,3 +4,4 @@ RandomForestRegressor_model1/*
 bio/
 *.csv
 *.smi
+*.xlsx
